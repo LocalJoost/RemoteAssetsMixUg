@@ -1,10 +1,9 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
-using UnityEngine.SceneManagement;
 
-public class PrefabLoader : MonoBehaviour {
+public class PrefabLoader : MonoBehaviour
+{
 
     public string AssetUrl;
 
